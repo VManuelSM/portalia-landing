@@ -1,0 +1,1 @@
+var t=new Intl.NumberFormat(`es-MX`,{style:`currency`,currency:`MXN`,maximumFractionDigits:0});var o=new Intl.DateTimeFormat(`es-MX`,{weekday:`long`,day:`numeric`,month:`long`,timeZone:`America/Mexico_City`});function e(n){return t.format(n/100)}function r(n){return o.format(new Date(n)).replace(`,`,``)}function i(n){window.location.assign(n)}export{i as n,r,e as t};
