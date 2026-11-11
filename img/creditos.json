@@ -1,0 +1,65 @@
+{
+  "fuente": "Pixabay (Pixabay Content License)",
+  "imagenes": [
+    {
+      "archivo": "img/portalia-conferencias.jpg",
+      "pixabayId": 2626052,
+      "autor": "StockSnap",
+      "pagina": "https://pixabay.com/photos/business-conference-presentation-2626052/"
+    },
+    {
+      "archivo": "img/portalia-experiencias.jpg",
+      "pixabayId": 4682257,
+      "autor": "marcelkessler",
+      "pagina": "https://pixabay.com/photos/potter-pottery-vase-pot-art-craft-4682257/"
+    },
+    {
+      "archivo": "img/portalia-conexion.jpg",
+      "pixabayId": 10363726,
+      "autor": "TyliJura",
+      "pagina": "https://pixabay.com/photos/audience-concert-classical-music-10363726/"
+    },
+    {
+      "archivo": "img/portalia-premium.jpg",
+      "pixabayId": 1850119,
+      "autor": "Pexels",
+      "pagina": "https://pixabay.com/photos/audience-backlit-concert-crowd-1850119/"
+    },
+    {
+      "archivo": "img/crea-diario.jpg",
+      "pixabayId": 1840276,
+      "autor": "Pexels",
+      "pagina": "https://pixabay.com/photos/notebook-notes-pen-writing-diary-1840276/"
+    },
+    {
+      "archivo": "img/crea-ritmo.jpg",
+      "pixabayId": 5186058,
+      "autor": "ELG21",
+      "pagina": "https://pixabay.com/photos/landscape-night-star-phases-5186058/"
+    },
+    {
+      "archivo": "img/crea-planificacion.jpg",
+      "pixabayId": 2587310,
+      "autor": "StockSnap",
+      "pagina": "https://pixabay.com/photos/people-write-notebook-diary-pages-2587310/"
+    },
+    {
+      "archivo": "img/crea-cacao.jpg",
+      "pixabayId": 10226163,
+      "autor": "MyriChagnon",
+      "pagina": "https://pixabay.com/photos/cacao-chocolate-beverage-ritual-10226163/"
+    },
+    {
+      "archivo": "img/crea-gala.jpg",
+      "pixabayId": 1449232,
+      "autor": "Sponchia",
+      "pagina": "https://pixabay.com/photos/table-decoration-dinner-for-two-1449232/"
+    },
+    {
+      "archivo": "img/crea-amanecer.jpg",
+      "pixabayId": 1959227,
+      "autor": "Hans",
+      "pagina": "https://pixabay.com/photos/sunrise-sea-of-clouds-clouds-1959227/"
+    }
+  ]
+}

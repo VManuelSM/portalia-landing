@@ -1,0 +1,1 @@
+function n(){let t=globalThis.history?.state??{};return{email:typeof t.email==`string`?t.email:void 0,returnTo:e(t.returnTo)}}function e(t){return typeof t==`string`&&/^\/(?!\/)[\w\-/]*$/.test(t)?t:void 0}export{n as t};
